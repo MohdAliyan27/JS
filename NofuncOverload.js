@@ -1,4 +1,5 @@
-//In JS Function Overloading doesnot exixt
+//In JS Function Overloading doesnot exist.
+//And in this if we have two functions with the same name the last declared function will remain and things will work on that basis.
 
 function funcONE(x,y,z) {
     return x*y*z;
