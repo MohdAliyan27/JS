@@ -1,3 +1,5 @@
+//TRY AND CATCH FUNCTIONALITY
+
 try {
     let a=10,b=0;
     let c=a/b;
