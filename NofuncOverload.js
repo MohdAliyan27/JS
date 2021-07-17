@@ -1,3 +1,5 @@
+//In JS Function Overloading doesnot exixt
+
 function funcONE(x,y,z) {
     return x*y*z;
  }
