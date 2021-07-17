@@ -14,3 +14,5 @@ function funcONE(x,y,z) {
 
 // prints 5, not 30
 console.log(funcONE(5,1,4));
+
+//EOF :)
