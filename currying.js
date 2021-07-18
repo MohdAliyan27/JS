@@ -30,7 +30,7 @@ let multiply2 = function(x){
     }
 }
 
-let multByTwo2 = multiply2(2);
+let multByTwo2 = multiply2(2); //sets the value of x to be 2
 multByTwo2(51);
 
 
