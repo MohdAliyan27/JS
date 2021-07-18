@@ -8,7 +8,8 @@ let multiply1=function(x,y){
 let multByTwo1 = multiply1.bind(this,2);
 console.log(multByTwo1(6));
 
-// Type 2 starts from her.
+// Type 2 starts from here.
+
 function volume(length) {
       return (width) => {
          return (height) => {
@@ -17,7 +18,7 @@ function volume(length) {
       }
 }
 
-let vol= volume(1)(2)(4);
+let vol= volume(1)(2)(4); //Extra parameters are ignored and less result in error.
 console.log(vol);
 
 
