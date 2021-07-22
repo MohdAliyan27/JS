@@ -8,8 +8,8 @@ function age(dob){
     return n-dob;
 }
 
-console.log(age(1993));// Value of function changes but the parameter is same
 console.log(age(1993)); // Value of function changes but the parameter is same
+console.log(age(1993)); // Value of function changes but the parameter is same 
 
 //Pure Function
 
@@ -18,3 +18,5 @@ function nextYear(val){
 }
 
 console.log(nextYear(1993));
+
+// end of program
