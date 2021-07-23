@@ -8,3 +8,5 @@ var x= (x,y) => {
 }
 
 console.log(x(4,5));
+
+//End of arrow function
