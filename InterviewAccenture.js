@@ -1,4 +1,4 @@
-//ist program
+//Ist program
 
 setTimeout(() => {
     console.log("Hi")
@@ -6,7 +6,7 @@ setTimeout(() => {
 
 //2nd program
 function greeting(){
-    console.log("Hello");
+    console.log("Hello World");
 }
 
 greeting();
