@@ -1,3 +1,5 @@
+// easy example of callback function
+
 function first(callback) {
   console.log('First Code Execute.');
   callback();
