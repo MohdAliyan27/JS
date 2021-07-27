@@ -3,11 +3,13 @@
 
 function funcONE(x,y,z) {
     return x*y*z;
- }
+ } //loose importance and doesnot works.
  
  function funcONE(x,y) {
     return x+y;
- }
+ } //Will be the final function
+
+
 //  function funcONE(z) {
 //     return z;
 //  }
