@@ -9,7 +9,3 @@ if(x==1){
     console.log("Inside Block x is "+x+"\n y is "+y+" \nz is "+z + " \nand a is constant with value "+a);
 }
 console.log("After Block x is "+x+"\n y is "+y+" \nz is "+z + " \nand a is constant with value "+a);
-
-// const - No global scope, Yes for function scope, Yes for block scope, No it cant be reassigned.
-// Let - No global scope, Yes for function scope, Yes for block scope, Yes it can be reassigned to the same type.
-// Var - Yes global scope, Yes for function scope, No for block scope, Yes it can be reassigned to any type.

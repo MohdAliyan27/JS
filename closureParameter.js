@@ -6,4 +6,3 @@ function A(x,y){
     B()
 }
 A(5,4)
-

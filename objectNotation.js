@@ -7,7 +7,7 @@ let person = {
 console.log(person.isMale); //dot notation
 console.log(person['name']); //bracket notation
 
-person['gender'] ='Male';  //assigning a new type 
+person['gender'] ='Male';  //assigning a new type
 
 console.log(person);
 

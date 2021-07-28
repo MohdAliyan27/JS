@@ -1,4 +1,4 @@
-//Ist program
+//ist program
 
 setTimeout(() => {
     console.log("Hi")
@@ -6,7 +6,7 @@ setTimeout(() => {
 
 //2nd program
 function greeting(){
-    console.log("Hello World");
+    console.log("Hello");
 }
 
 greeting();
@@ -35,5 +35,7 @@ fs.readFile('fileRead.txt',(err,data) =>{
     }
     
 });
+
+
 
 

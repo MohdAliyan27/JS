@@ -7,3 +7,8 @@ setTimeout(() => {
 },3000);
 
 console.log("Add fertilizer");
+
+//callback function
+setInterval(function() {
+    console.log('hello!');
+  }, 1000);

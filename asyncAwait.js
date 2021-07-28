@@ -11,7 +11,7 @@ fs.readFile('file1.txt', (err,data) => {
         console.log(err.stack);
     }else{
         myobj['data1']=data.toString();
-        console.log(myobj)
+        //console.log(myobj)
     }
 })
 
@@ -21,8 +21,6 @@ fs.readFile('file2.txt',(err,data) => {
         console.log(myobj);
     }
 })
-
-console.log(myobj);
 */
 
 
