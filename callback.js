@@ -10,3 +10,4 @@ function second() {
 }
 
 first(second);
+// first and then second.
