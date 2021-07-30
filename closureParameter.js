@@ -6,3 +6,11 @@ function A(x,y){
     B()
 }
 A(5,4)
+
+// function outer(x,y){
+//     function inner(){
+//         console.log(x*y);
+//         }
+//     inner();
+// }
+// outer(5,4)
