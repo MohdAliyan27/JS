@@ -19,5 +19,3 @@ req.on('error', error => {
 })
 
 req.end()
-
-//i dont get it
