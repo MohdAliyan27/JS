@@ -3,8 +3,8 @@
 // }
 
 // console.log(x(4,5));
-var x= (x,y) => {
+var newFunction = (x,y) => {
     return x+y;
 }
 
-console.log(x(4,5));
+console.log(newFunction(4,5));
