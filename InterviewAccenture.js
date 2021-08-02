@@ -1,4 +1,4 @@
-//ist program
+// Ist program, after 5sec print Hi
 
 setTimeout(() => {
     console.log("Hi")
