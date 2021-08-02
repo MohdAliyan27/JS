@@ -4,9 +4,9 @@ setTimeout(() => {
     console.log("Hi")
 }, 5000);
 
-//2nd program
+//IInd program print Hey how are you.
 function greeting(){
-    console.log("Hello");
+    console.log("Hey how are you.");
 }
 
 greeting();
