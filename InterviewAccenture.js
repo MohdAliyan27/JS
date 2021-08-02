@@ -8,10 +8,9 @@ setTimeout(() => {
 function greeting(){
     console.log("Hey how are you.");
 }
-
 greeting();
 
-//3rd proram
+//3rd program
 var num =[1,2,3,4,5,6,7,8]
 var even = num.filter((element) => {
     if(element%2 ==0)
@@ -20,6 +19,19 @@ var even = num.filter((element) => {
     }
 })
 console.log(even);
+
+//Map program
+var num =[1,2,3,4,5,6,7,8]
+var map1 = num.map((element) => {
+    if(element%2 == 0)
+    {
+     return element;
+    }
+    else{
+     return element + 1;
+    }
+})
+console.log(map1);
 
 
 //4th program
