@@ -44,8 +44,7 @@ fs.readFile('fileRead.txt',(err,data) =>{
     }
     else{
         console.log(data.toString());
-    }
-    
+    }  
 });
 
 
