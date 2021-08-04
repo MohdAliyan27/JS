@@ -1,4 +1,4 @@
-const https = require('https')
+const https = require('https') // requiring http module and storing in http object
 const options = {
   hostname: 'whatever.com',
   port: 443,
