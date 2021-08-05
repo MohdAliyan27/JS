@@ -1,4 +1,4 @@
-var express = require('express')
+var express = require('express')  //express object
 var app = express()
 
 var requestTime = function (req, res, next) {
