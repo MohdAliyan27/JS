@@ -48,5 +48,4 @@ fs.readFile('fileRead.txt',(err,data) =>{
 });
 
 
-
-
+//Thanks for visiting
