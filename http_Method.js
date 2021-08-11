@@ -24,6 +24,7 @@ var server = http.createServer((req,res) => {
     console.log('path is '+ trimmedPath)
 })
 
+//listening at 9000
 server.listen(9000, ()=>{
     console.log("server running at 9000")
 })
