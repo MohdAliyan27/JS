@@ -11,7 +11,7 @@ var server = http.createServer((req,res) => {
     res.end("Hey Node\n")
     
     //log the req path
-    console.log('Headers is '+ headers)
+    console.log('Headers is ', headers)  //objects are always goes by ,
 })
 
 server.listen(9000, ()=>{
