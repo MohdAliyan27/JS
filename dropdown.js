@@ -1,4 +1,4 @@
-//USE https://jsfiddle.net/
+//USE https://jsfiddle.net/  to execute the below code snippet
 
 //USING JS
 function jsFunction(value)
