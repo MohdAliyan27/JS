@@ -21,3 +21,5 @@ myEvent.emit('start', 1, 100)
 myEvent.emit('start', 1, 100)
 //myEvent.emit('start')
 //myEvent.emit('start', 23)
+
+//OUTPUT
