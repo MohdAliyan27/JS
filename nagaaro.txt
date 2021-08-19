@@ -1,0 +1,19 @@
+ind majority element in array.
+
+2. String permutation
+
+3. If aaahhcccddaah is given, then print - a5c3d2h3
+
+How would you go about inserting 2 million records from a
+csv to database? Include all the file handling and database scenarios
+
+check-for-balanced-parentheses-in-an-expression
+
+second largest number else return -1 
+ex as
+[1,2,3] return 2
+[2,2,2] return -1
+
+matrix question
+
+return a string based on 121 will return ABA or LA or AU.
