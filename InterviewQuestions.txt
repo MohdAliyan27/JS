@@ -1,16 +1,38 @@
 WEBSocket.io
 ORM library database
 sequalise
-JWT token
+JWT token (3)
+JWT vs Session
 promise in detail
 How to resolve the promise
-ASYN AWAIT
+ASYN AWAIT (3)
 map reduce filter sort
 Higher order functions in JS
 %2 number
 even index print values
-callback
+callback (5)
 React function
-GET PUT POST DELETE
+GET PUT POST DELETE (3)
 can we use the same url for get and POST answer is YES how to do that.
 put can be used as get or not? Explain.
+Stream types and explain
+split JS
+Splice JS
+slice JS
+indexOF
+export functionality
+include
+chaining
+Node.js
+Architecture of Node
+Single Threaded Node.js and Why it is so?
+How to install modules
+http request (3)
+error first callback.
+let vs const vs var
+status code and example. 404, 200.500,etc
+Crypto module
+passport
+Auth module
+encryption vs Dcryption in node js
+
