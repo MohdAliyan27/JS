@@ -1,0 +1,16 @@
+WEBSocket.io
+ORM library database
+sequalise
+JWT token
+promise in detail
+How to resolve the promise
+ASYN AWAIT
+map reduce filter sort
+Higher order functions in JS
+%2 number
+even index print values
+callback
+React function
+GET PUT POST DELETE
+can we use the same url for get and POST answer is YES how to do that.
+put can be used as get or not? Explain.
