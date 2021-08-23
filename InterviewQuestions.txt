@@ -70,3 +70,4 @@ timimg functions (settimeout, clearInterval, setInterval)
 
 Most challenging thing you faced in the project and how to solve
 Passport and implementation
+Authentication IMPORTANT
