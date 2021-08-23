@@ -66,5 +66,5 @@ Streaming
 callback hell
 rest vs spread operator in JS
 Must read 48 nodejs question.
-timimg functions (settimeout, clearInterval)
+timimg functions (settimeout, clearInterval, setInterval)
 
