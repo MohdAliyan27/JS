@@ -62,6 +62,9 @@ var hoisting
 single threading
 socket io
 
-
+Streaming
+callback hell
+rest vs spread operator in JS
+Must read 48 nodejs question.
 
 
