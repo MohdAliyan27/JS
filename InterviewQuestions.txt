@@ -20,7 +20,7 @@ split JS
 Splice JS
 slice JS
 indexOF
-export functionality
+export functionality (2)
 include
 chaining
 Node.js
@@ -38,13 +38,29 @@ encryption vs Dcryption in node js
 final class
 npm 
 blocking vs non blocking code
-event loop
+event loop (2)
 popular modules and its uses in node
 Event emitter
 JSON and its uses
 
 INFOSYS
 
+Middleware and its use
+Authentication vs authorzation
+latest npm version used by you.
+http request in details
+get put post delete
+JWT
+single thread uses
+export vs middleware
+REST API vs SOAP API
+next() uses in middleware
+closure
+multithreading
+p1,p2,p3 three process
+var hoisting
+single threading
+socket io
 
 
 
