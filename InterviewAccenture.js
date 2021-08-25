@@ -2,7 +2,7 @@
 
 setTimeout(() => {
     console.log("Hi")
-}, 5000);
+}, 5000); //Global function
 
 //IInd program print Hey how are you.
 function greeting(){
