@@ -4,6 +4,8 @@ https://github.com/bahdcasts/node-js-blog
 https://github.com/bahdcasts/modern-node-js-from-scratch
 https://www.youtube.com/watch?v=HO5iiDaZO2E  //POSTGRE IMportant
 
+call apply bind
+
 //Get, post, put, delete.
 //callback
 //post
