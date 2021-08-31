@@ -73,10 +73,8 @@ Passport and implementation
 Authentication IMPORTANT
 
 call apply bind
-//Get, post, put, delete.
-//callback
-//post
-
-
-//event bubbling
-//event emitter
+Get, post, put, delete.
+callback
+post
+event bubbling
+event emitter
