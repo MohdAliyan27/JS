@@ -1,8 +1,10 @@
 //code for all the http request.
-MOST IMP
+#MOST_IMP_LINK
+
 https://github.com/bahdcasts/node-js-blog
 https://github.com/bahdcasts/modern-node-js-from-scratch
 https://www.youtube.com/watch?v=HO5iiDaZO2E  //POSTGRE IMportant
+https://www.freecodecamp.org/news/learn-node-js-with-brigadier-fluffykins-part-iii-request-object-configure-routes-serve-files-7666f783dc10/
 
 call apply bind
 
@@ -10,17 +12,16 @@ call apply bind
 //callback
 //post
 
-//https://www.freecodecamp.org/news/learn-node-js-with-brigadier-fluffykins-part-iii-request-object-configure-routes-serve-files-7666f783dc10/
 
 //event bubbling
 //event emitter
 
-NOTICE PERIOD
+#NOTICE_PERIOD
 https://economictimes.indiatimes.com/jobs/eight-things-to-do-during-your-notice-period/articleshow/35833639.cms
 https://www.quora.com/What-is-the-resignation-process-in-TCS
 
 
-INTERVIEW QUESTIONS
+##INTERVIEW_QUESTIONS
 https://www.guru99.com/javascript-interview-questions-answers.html
 https://www.javatpoint.com/javascript-interview-questions
 https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-2016/
