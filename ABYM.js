@@ -1,20 +1,10 @@
-//code for all the http request.
+
 #MOST_IMP_LINK
 
 https://github.com/bahdcasts/node-js-blog
 https://github.com/bahdcasts/modern-node-js-from-scratch
 https://www.youtube.com/watch?v=HO5iiDaZO2E  //POSTGRE IMportant
 https://www.freecodecamp.org/news/learn-node-js-with-brigadier-fluffykins-part-iii-request-object-configure-routes-serve-files-7666f783dc10/
-
-call apply bind
-
-//Get, post, put, delete.
-//callback
-//post
-
-
-//event bubbling
-//event emitter
 
 #NOTICE_PERIOD
 https://economictimes.indiatimes.com/jobs/eight-things-to-do-during-your-notice-period/articleshow/35833639.cms
