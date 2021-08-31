@@ -10,7 +10,7 @@ map reduce filter sort
 Higher order functions in JS
 %2 number
 even index print values
-callback (5)
+callback (6)
 React function
 GET PUT POST DELETE (3)
 can we use the same url for get and POST answer is YES how to do that.
@@ -49,7 +49,7 @@ Middleware and its use
 Authentication vs authorzation
 latest npm version used by you.
 http request in details
-get put post delete
+get put post delete(2)
 JWT
 single thread uses
 export vs middleware
@@ -73,8 +73,5 @@ Passport and implementation
 Authentication IMPORTANT
 
 call apply bind
-Get, post, put, delete.
-callback
-post
 event bubbling
 event emitter
