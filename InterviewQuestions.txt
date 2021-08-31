@@ -1,4 +1,5 @@
 WEBSocket.io
+socket.io
 ORM library database
 sequalise
 JWT token (3)
