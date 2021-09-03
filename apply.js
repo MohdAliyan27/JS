@@ -1,3 +1,5 @@
+// apply use 
+
 let name={
     fname:'Mohd',
     lname:'Aliyan'
