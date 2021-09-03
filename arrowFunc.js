@@ -1,4 +1,6 @@
-// var x= function add(x,y){
+//Conventional function
+
+//var x= function add(x,y){
 //     return x+y;
 // }
 
