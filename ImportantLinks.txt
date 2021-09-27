@@ -1,3 +1,15 @@
 //project Links
 
 https://github.com/bradtraversy/vanillawebprojects/blob/master/typing-game/index.html
+
+
+//MONGO DB
+https://www.youtube.com/watch?v=we6oQJ4_-5o&list=PLRTey0Iqj9jh3WTvoupGK0aizk-Rmbz7u&index=4
+https://www.youtube.com/watch?v=QqwyOyeWRPU&list=PLRTey0Iqj9jh-jHliSx7VraA99N7s5RtN&index=5
+
+//Traversy
+
+https://www.youtube.com/watch?v=k_0ZzvHbNBQ&list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp
+https://www.youtube.com/watch?v=fBNz5xF-Kx4&list=PLillGF-RfqbZ2ybcoD2OaabW2P7Ws8CWu
+https://www.youtube.com/watch?v=NO7_jgzVgbc&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=33
+https://www.youtube.com/watch?v=bqn-sx0v-l0&list=PLillGF-RfqbbFSFYR_yJfDcdq6It6OqdO
