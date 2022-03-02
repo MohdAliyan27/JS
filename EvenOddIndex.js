@@ -12,7 +12,7 @@ function EvenOdd(word){
     }
     console.log(x+" "+y);
 }
-
+//output
 function processData(input) {
     //Enter your code here
     var pieces = input.split('\n');
