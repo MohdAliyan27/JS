@@ -10,8 +10,11 @@ function EvenOdd(word){
             y=y+word[j];
         }
     }
-    console.log(x+" "+y);
+    console.log("Odd Index :"+x);
+    console.log("Even Index: "+y);
 }
+
+
 //output
 function processData(input) {
     //Enter your code here
