@@ -1,5 +1,8 @@
 //Find output
+var onj={}
+Object.prototype.__proto__
 
+//Find output
 var p = Promise.resolve('foo'); 
 
 async function callback(){ 
