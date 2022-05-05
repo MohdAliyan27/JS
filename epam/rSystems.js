@@ -10,3 +10,17 @@ let out=[];
 let x= i+':'+inp;
 console.log((x))
 }
+
+//Que 2
+function sum(a, b){
+    if(b === undefined){
+        return (c) => {
+            return c + a;
+        }
+    }
+
+    return a + b;
+}
+
+console.log(sum(2,3));
+console.log(sum(2)(3));
