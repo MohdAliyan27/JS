@@ -12,6 +12,7 @@ console.log((x))
 }
 
 //Que 2
+//Sum can be 5.
 function sum(a, b){
     if(b === undefined){
         return (c) => {
