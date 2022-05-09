@@ -5,7 +5,7 @@ https://github.com/bahdcasts/modern-node-js-from-scratch
 https://www.youtube.com/watch?v=HO5iiDaZO2E  //POSTGRE IMportant
 https://www.freecodecamp.org/news/learn-node-js-with-brigadier-fluffykins-part-iii-request-object-configure-routes-serve-files-7666f783dc10/
 
-//NOTICE_PERIOD
+//NOTICE_PERIOD  op
 https://economictimes.indiatimes.com/jobs/eight-things-to-do-during-your-notice-period/articleshow/35833639.cms
 https://www.quora.com/What-is-the-resignation-process-in-TCS
 
