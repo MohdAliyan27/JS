@@ -5,11 +5,10 @@ Object.prototype.__proto__
 
 //Find output
 var p = Promise.resolve('foo'); 
-
 async function callback(){ 
     let result = await p; 
     console.log(result); 
-} 
+}
 
 callback(); 
 console.log(p.then(data => console.log('bar'))); 
