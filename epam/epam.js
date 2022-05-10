@@ -13,6 +13,12 @@ async function callback(){
 callback(); 
 console.log(p.then(data => console.log('bar'))); 
 
+//The output is:
+[object Promise] { ... }
+"foo"
+"bar"
+
+
 //Find output
 var b = 10; 
 function outer() { 
