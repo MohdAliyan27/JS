@@ -1,5 +1,6 @@
-//Find output
-var onj={}
+//Find output:
+
+var obj={}
 Object.prototype.__proto__
 
 //Find output
