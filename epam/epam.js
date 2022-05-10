@@ -17,7 +17,7 @@ console.log(p.then(data => console.log('bar')));
 [object Promise] { ... }
 "foo"
 "bar"
-
+// END OF QUE 1
 
 //Find output
 var b = 10; 
