@@ -3,7 +3,7 @@
 var obj={}
 Object.prototype.__proto__
 
-//Find output
+//Find output of below
 var p = Promise.resolve('foo'); 
 async function callback(){ 
     let result = await p; 
