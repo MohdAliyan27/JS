@@ -18,4 +18,3 @@ https://github.com/learning-zone/nodejs-interview-questions
 
 //Please visit the above links.
 //hello
-//world
