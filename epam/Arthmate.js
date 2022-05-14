@@ -11,7 +11,7 @@
 11) ACID properties
 12) How to CRUD works in PGAdmin or MOngoDB
 13) Worker Thread implementation
-14) 
-15) 
+14) Redis
+15) Caching in JS
 16) 
 17) 
