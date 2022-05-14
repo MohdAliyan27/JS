@@ -5,6 +5,13 @@
 5) Clustering
 6) Authentication
 7) How JWT works
-8)ACID properties
+8) Full functionality JWT or OAuth.
 9) Rollback vs commit
-10) 
+10) B2B vs B2C difference.
+11) ACID properties
+12) How to CRUD works in PGAdmin or MOngoDB
+13) 
+14) 
+15) 
+16) 
+17) 
