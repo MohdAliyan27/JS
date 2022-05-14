@@ -10,7 +10,7 @@
 10) B2B vs B2C difference.
 11) ACID properties
 12) How to CRUD works in PGAdmin or MOngoDB
-13) 
+13) Worker Thread implementation
 14) 
 15) 
 16) 
