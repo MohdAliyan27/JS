@@ -17,4 +17,4 @@ https://www.edureka.co/blog/interview-questions/top-node-js-interview-questions-
 https://github.com/learning-zone/nodejs-interview-questions
 
 
-Build some projects on React JS
+Build some projects on React JS and website. 
