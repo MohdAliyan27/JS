@@ -5,6 +5,7 @@ class Polygon{
     constructor(sides){        
         this.sides = sides;
     }
+    //perimeter function
     perimeter() {
         return this.sides.reduce(function add(a,b){return a+b;})
     } 
