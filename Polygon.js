@@ -1,4 +1,7 @@
+// created a class Polygon
+
 class Polygon{
+    //constructor created
     constructor(sides){        
         this.sides = sides;
     }
