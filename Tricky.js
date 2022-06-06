@@ -2,7 +2,7 @@
 
 var arrayList =  ['a', 'b', 'c', 'd', 'e', 'f'];
 //Approach 1
-arrayList =[];
+arrayList = [];
 
 //Approach 2
 arrayList.length = 0;
