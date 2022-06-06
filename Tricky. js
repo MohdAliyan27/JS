@@ -1,3 +1,5 @@
 //Empty the array
 
 var arrayList =  ['a', 'b', 'c', 'd', 'e', 'f'];
+
+var arrayList =[];
