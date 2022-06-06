@@ -1,5 +1,5 @@
 //Empty the array
 
 var arrayList =  ['a', 'b', 'c', 'd', 'e', 'f'];
-
+//Approach 1
 var arrayList =[];
