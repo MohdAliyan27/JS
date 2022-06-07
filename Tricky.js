@@ -11,8 +11,8 @@ arrayList.length = 0;
 
 arrayList.splice(0, arrayList.length);
 
-Que 2
-Difference between undefined and not defined?
-ANS
+//Que 2
+//Difference between undefined and not defined?
+//ANS
 var x; // declaring x
 console.log(x); //output: undefined
