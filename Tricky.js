@@ -16,3 +16,4 @@ arrayList.splice(0, arrayList.length);
 //ANS
 var x; // declaring x
 console.log(x); //output: undefined
+console.log(y);  //output : not defined
