@@ -11,6 +11,7 @@ arrayList.length = 0;
 
 arrayList.splice(0, arrayList.length);
 
+THEORY and Concepts
 //Que 2
 //Difference between undefined and not defined?
 //ANS
