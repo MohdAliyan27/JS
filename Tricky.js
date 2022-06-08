@@ -32,7 +32,7 @@ if( x && y ){
     console.log("Code runs 1");  // This block runs because x || y returns 220(Truthy)
   }
 
-//IIFY
+//IIFY immediately invoked function.
 (function(){ 
    console.log("Hello World");
 })();
