@@ -20,3 +20,5 @@ var w;
 console.log(w);
 w = 543;
 console.log(w);// 'value'
+
+End of File
