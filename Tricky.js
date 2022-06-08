@@ -31,3 +31,9 @@ if( x && y ){
   if( x && z ){
     console.log("Code runs 1");  // This block runs because x || y returns 220(Truthy)
   }
+
+//IIFY
+(function(){ 
+   console.log("Hello World");
+})();
+
