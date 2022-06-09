@@ -8,7 +8,6 @@ const options = {
 
 const req = https.request(options, res => {
   console.log(`statusCode: ${res.statusCode}`)
-
   res.on('data', d => {
     process.stdout.write(d)
   })
@@ -20,4 +19,4 @@ req.on('error', error => {
 
 req.end()
 
-//end of file
+//end of file. 
