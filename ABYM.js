@@ -18,10 +18,11 @@ https://github.com/learning-zone/nodejs-interview-questions
 
 
 Build some projects on React JS and website. 
+Some basic Projects:
 Portfolio
 To do list
 Wedding website
 Climate 
 Calculator
 Game
-Some basic Projects:
+
