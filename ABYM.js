@@ -28,6 +28,5 @@ Game
 
 Hello
 Byeee
-Helllllljs
 Hehehhdhhe
 Hdyis
