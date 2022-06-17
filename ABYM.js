@@ -25,6 +25,3 @@ Wedding website
 Climate 
 Calculator
 Game
-
-Hello
-Byeee
