@@ -1,6 +1,6 @@
 /*
 
-// Callback Async Await function js
+// Callback Async Await function
 // Normal Execution of code 
 
 var fs = require('fs');
