@@ -37,4 +37,4 @@ if( x && y ){
    console.log("Hello World");
 })();
 
-//Hello. world 1
+//Hello.
