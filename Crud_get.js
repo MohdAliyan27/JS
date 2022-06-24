@@ -1,4 +1,4 @@
-const https = require('https') // requiring http module and storing in http object
+const https = require('https'); // requiring http module and storing in http object
 const options = {
   hostname: 'localhost',
   port: 3000,
@@ -7,7 +7,7 @@ const options = {
 }
 
 const req = https.request(options, res => {
-  console.log(`statusCode: ${res.statusCode}`)
+  console.log(`statusCode: ${res.statusCode}`);
   res.on('data', d => {
     process.stdout.write(d)
   })
