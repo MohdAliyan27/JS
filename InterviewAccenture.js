@@ -48,5 +48,5 @@ fs.readFile('fileRead.txt',(err,data) =>{
 });
 
 //Thanks for visiting Accenture Node Interview Questions
-//llo
+//
 
