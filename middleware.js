@@ -4,7 +4,8 @@
 // executes the middleware succeeding the current middleware.
 
 
-// Middleware 
+// Middleware 4 pointers:
+
 // Execute any code.
 // Make changes to the request and the response objects.
 // End the request-response cycle.
