@@ -11,4 +11,4 @@ function second() {
 
 first(second);
 
-// first and then second. Is the output
+// first and then second. Is the output. 
