@@ -1,4 +1,4 @@
-//let var const
+//let var const, 
 
 var x=1,y=2;
 let z=5;
