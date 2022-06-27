@@ -12,4 +12,4 @@ if(x==1){
 }
 console.log("After Block x is "+x+"\n y is "+y+" \nz is "+z + " \nand a is constant with value "+a);
 //
-//
+
