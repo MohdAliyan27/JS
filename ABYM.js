@@ -25,4 +25,4 @@ Wedding website
 Climate 
 Calculator
 Game
-Tic rltac 
+Tic tac 
