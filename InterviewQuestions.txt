@@ -5,7 +5,7 @@ sequalise
 JWT token (3)
 JWT vs Session
 Redis
-promise in detail
+promise in detail .all
 How to resolve the promise
 ASYN AWAIT (3)
 map reduce filter sort
