@@ -42,7 +42,7 @@ npm
 blocking vs non blocking code
 event loop (2)
 popular modules and its uses in node
-Event emitter
+Event emitter emit and on
 JSON and its uses
 
 INFOSYS
