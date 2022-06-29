@@ -4,6 +4,7 @@ ORM library database
 sequalise
 JWT token (3)
 JWT vs Session
+Redis
 promise in detail
 How to resolve the promise
 ASYN AWAIT (3)
