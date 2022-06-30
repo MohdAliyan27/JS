@@ -22,7 +22,7 @@ Some basic Projects:
 Portfolio
 To do list
 Wedding website
-Climate 
+Climate website
 Calculator
 Game
 Tic tac toe
