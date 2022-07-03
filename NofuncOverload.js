@@ -11,8 +11,3 @@ function funcONE(x,y,z) {
 
 // prints 5, not 30
 console.log(funcONE(5,1,4));
-1
-2
-3
-4
-T
