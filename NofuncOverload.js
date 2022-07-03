@@ -13,3 +13,4 @@ function funcONE(x,y,z) {
 console.log(funcONE(5,1,4));
 1
 2
+3
