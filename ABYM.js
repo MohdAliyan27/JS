@@ -27,8 +27,4 @@ Calculator
 Game
 Tic tac toe
 
-//end of file. 
-
-18
-4
-78
+//end of file.
