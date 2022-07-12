@@ -29,6 +29,6 @@ Tic tac toe
 
 //end of file. 
 
-1
+18
 4
 7
